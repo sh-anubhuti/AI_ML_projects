@@ -1,9 +1,0 @@
-streamlit
-langchain
-langgraph
-python-dotenv
-langchain-community
-langchain-google-genai
-faiss-cpu
-pypdf
-sentence-transformers
