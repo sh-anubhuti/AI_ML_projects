@@ -1,0 +1,39 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
+notebook
+scipy
+joblib
+
+# Deep learning
+tensorflow
+keras
+torch
+torchvision
+torchaudio
+
+# NLP
+nltk
+spacy
+transformers
+
+# Computer Vision
+opencv-python
+Pillow
+
+# Model evaluation and explainability
+xgboost
+lightgbm
+shap
+
+# Data manipulation and cleaning
+beautifulsoup4
+lxml
+tqdm
+
+# Optional: for hyperparameter tuning
+optuna
+	
